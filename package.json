@@ -1,0 +1,11 @@
+{
+  "name": "habits-graphql-ngrx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mike Ryan <mike.ryan52@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  }
+}
